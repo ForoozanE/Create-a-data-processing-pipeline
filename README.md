@@ -95,25 +95,6 @@ Testing:
 hdfs dfs -ls /user/ubuntu/FinalProject/Delta_testData
 ```
 
-
-## Run the Pipeline
-
-- Data Cleaning (Silver Layer):
-
-```
-spark-submit ~/FinalProject/scripts/clean_data.py
-```
-
-- Delta Table Creation (Gold Layer):
-```
-spark-submit ~/FinalProject/scripts/create_delta.py
-```
-
-- Delta Table Updates (Gold Layer):
-```
-spark-submit ~/FinalProject/scripts/update_delta.py
-```
-
 ## Spark UI
 
 - Start the Spark History Server to monitor jobs:
