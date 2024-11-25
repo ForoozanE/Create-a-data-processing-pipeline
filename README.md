@@ -13,9 +13,8 @@ The pipeline runs on OpenStack, with data stored in HDFS using Spark.
 
 1. [Prerequisites](#prerequisites)
 2. [Hadoop and HDFS](#hadoop-and-hdfs)
-3. [Run the Pipeline](#run-the-pipeline)
-4. [Spark UI](#spark-ui)
-5. [Troubleshooting Hadoop and Spark Cluster Setup](#troubleshooting-hadoop-and-spark-cluster-setup)
+3. [Spark UI](#spark-ui)
+4. [Troubleshooting Hadoop and Spark Cluster Setup](#troubleshooting-hadoop-and-spark-cluster-setup)
 
 
 
