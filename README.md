@@ -41,7 +41,7 @@ Data available in the HDFS paths:
 3- Gold: 
 ```
 /user/ubuntu/FinalProject/Delta_trainData
- and 
+ 
 /user/ubuntu/FinalProject/Delta_testData
 
 ```
